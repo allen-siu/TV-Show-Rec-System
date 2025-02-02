@@ -1,0 +1,9 @@
+{
+    "models_folder": "models",
+    "model_name": "test_model",
+    "num_features": 2,
+    "alpha": 0.001,
+    "lambda_reg": 0.1,
+    "max_iters": 100,
+    "curr_iter": 100
+}
